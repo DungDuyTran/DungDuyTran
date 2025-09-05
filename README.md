@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Trần Duy Dũng  
+# Hi there 👋, Tôi là Trần Duy Dũng  
 
 ## 💡 About Me  
 🎯 Hướng tới trở thành **Fullstack Developer**, cân bằng giữa **UI/UX frontend** và xử lý **backend hiệu quả**.  
