@@ -40,12 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranDuyDung19&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranDuyDung19&layout=compact&theme=radical)  
-
----
 
 ## 📬 Contact  
 - 📧 Email: **tranduydunga1@gmail.com**  
