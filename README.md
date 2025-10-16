@@ -3,7 +3,9 @@
 ## 💡 About Me  
 🎯 Hướng tới trở thành **Fullstack Developer**, cân bằng giữa **UI/UX frontend** và xử lý **backend hiệu quả**.  
 🔹 Quan tâm đến trải nghiệm người dùng (UX) ở frontend.  
-🔹 Backend chuyên sâu với **OOP Java**, cùng các công nghệ **MySQL, Prisma ORM**.  
+🔹 Backend được tổ chức theo **mô hình 3 lớp (Controller – Service – Repository)** giúp mã nguồn rõ ràng, dễ mở rộng.  
+🔹 Có kiến thức tổng thể về **Authentication (JWT – Access Token – Refresh Token)** và **Caching (Redis)** để tối ưu hiệu năng hệ thống.  
+🔹 Thành thạo **Generic functions**, giúp tái sử dụng logic hiệu quả trong backend.  
 🔹 Luôn mong muốn tham gia các dự án thực tế để rèn luyện tư duy hệ thống & nâng cao kỹ năng toàn diện.  
 
 ---
@@ -22,7 +24,8 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Other Tools & Integration:**  
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -31,15 +34,13 @@
 
 ---
 
-
 ## 🎓 Education  
 **Công Nghệ Phần Mềm – Đại học Duy Tân (2022 - 2026)**  
-- GPA: **3.53/4** 
-- Học & thực hành nhiều môn chuyên ngành: **Lập trình, Web, CSDL**.  
-- Tự học thêm công nghệ hiện đại: **React, Tailwind, Prisma ORM**.  
+- GPA: **3.53/4**  
+- Học & thực hành nhiều môn chuyên ngành: **Lập trình, Web, CSDL, Kiến trúc phần mềm**.  
+- Tự học thêm công nghệ hiện đại: **React, Tailwind, Prisma ORM, Redis, JWT Authentication**.  
 
 ---
-
 
 ## 📬 Contact  
 - 📧 Email: **tranduydunga1@gmail.com**  
