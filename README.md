@@ -1,11 +1,11 @@
-# Hi there 👋, Tôi là Trần Duy Dũng  
+# 👋 Hi there, I'm Trần Duy Dũng  
 
 ## 💡 About Me  
-🎯 Hướng tới trở thành **Fullstack Developer**, cân bằng giữa **UI/UX frontend** và xử lý **backend hiệu quả**.  
-🔹 Quan tâm đến **trải nghiệm người dùng (UX)** và tổ chức mã nguồn gọn gàng, rõ ràng.  
-🔹 Backend được thiết kế theo **mô hình 3 lớp (Controller – Service – Repository)** giúp dễ mở rộng & bảo trì.  
-🔹 Có hiểu biết về **Authentication (JWT, Refresh Token)** và **Caching (Redis)** để tối ưu hiệu năng.  
-🔹 Luôn sẵn sàng học hỏi, tham gia dự án thực tế để nâng cao kỹ năng toàn diện.  
+🎯 Aspiring **Fullstack Developer**, balancing between **UI/UX frontend design** and efficient **backend architecture**.  
+🔹 Passionate about **user experience (UX)** and writing clean, maintainable, and scalable code.  
+🔹 Backend development follows the **3-layer architecture (Controller – Service – Repository)** for maintainability and scalability.  
+🔹 Knowledgeable in **Authentication (JWT, Refresh Token)** and **Caching (Redis)** to optimize performance.  
+🔹 Always eager to learn and contribute to real-world projects to enhance fullstack development skills.  
 
 ---
 
@@ -48,14 +48,14 @@
 ---
 
 ## 🎓 Education  
-**Công Nghệ Phần Mềm – Đại học Duy Tân (2022 - 2026)**  
+**Software Engineering – Duy Tan University (2022 - 2026)**  
 - GPA: **3.53/4**  
-- Chuyên ngành: **Lập trình, Web, CSDL, Kiến trúc phần mềm**  
-- Tự học thêm công nghệ: **React, Tailwind, Prisma ORM, Redis, JWT Authentication**  
+- Major: **Programming, Web Development, Databases, Software Architecture**  
+- Self-studied technologies: **React, Tailwind, Prisma ORM, Redis, JWT Authentication**  
 
 ---
 
 ## 📬 Contact  
 - 📧 Email: **tranduydunga1@gmail.com**  
-- 🌍 Đà Nẵng, Việt Nam  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 🌍 Da Nang, Vietnam  
+
