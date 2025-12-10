@@ -10,30 +10,15 @@
 ---
 
 # 🧠 Core Technical Concepts  
-
-### 🔷 **OOP & Design Patterns**  
 [![Design Patterns](https://img.shields.io/badge/Design_Patterns-0077B5?style=for-the-badge&logo=pattern&logoColor=white)](https://refactoring.guru/design-patterns)
-
-- Encapsulation · Inheritance · Polymorphism · Abstraction  
-- Factory Method · Singleton · Strategy · Observer · Repository Pattern  
-
-### 🔷 **Software Architecture**  
 [![Software Architecture](https://img.shields.io/badge/Software_Architecture-0A66C2?style=for-the-badge&logo=archlinux&logoColor=white)](https://martinfowler.com/architecture/)
+[![SOLID](https://img.shields.io/badge/SOLID_Principles-000000?style=for-the-badge&logo=github&logoColor=white)](https://scalastic.io/en/solid-dry-kiss/)
+[![DRY](https://img.shields.io/badge/DRY-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scalastic.io/en/solid-dry-kiss/)
+[![KISS](https://img.shields.io/badge/KISS_Principle-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://swimm.io/learn/system-design/6-software-design-principles-used-by-successful-engineers)
+[![SOC](https://img.shields.io/badge/Separation_of_Concerns-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/Separation_of_concerns)
+[![LoD](https://img.shields.io/badge/Law_of_Demeter-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Law_of_Demeter)
+[![GRASP](https://img.shields.io/badge/GRASP_Patterns-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
 
-- 3-Layer Architecture  
-- RESTful API Design  
-- Caching Layer (Redis)  
-- Error Handling · Logging · Validation Structure  
-
-### 🔷 **Software Design Principles**  
-- **SOLID**  
-- **DRY** (Don't Repeat Yourself)  
-- **KISS** (Keep It Simple, Stupid)  
-- **SoC** (Separation of Concerns)  
-- **LoD** (Law of Demeter)  
-- **GRASP** principles  
-
----
 
 # 🛠 Tech Stack  
 
